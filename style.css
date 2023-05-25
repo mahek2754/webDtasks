@@ -1,0 +1,241 @@
+#wrapper{
+  width: 100%;
+} 
+
+#page-start{
+    position: absolute;
+    width: 100%;
+    height: 52%;
+    left: 0px;
+    top: -61px;
+    background: #656CEC;
+    border-radius: 56px; 
+    border: 5px solid #fff;;
+}
+
+#page-start:hover{
+    border: color #656CEC ;
+}
+
+#page-start span:hover{
+    border-color:#656CEC ;
+}
+
+
+#page-start hr:hover{
+    border: color #656CEC ;
+}
+
+.title{
+    position:absolute;
+    text-align: center;
+    width:100%;
+    height: 5.33%;
+    top: 16%;  
+    margin:0;
+    padding:0;
+    font-family:'Segoe UI',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 56px;
+    color: #fff;
+    cursor: pointer;
+}
+.rect{
+    position: absolute;
+    display: inline-block;
+    width: 100%;
+    height: 0px;
+    left:0px;
+    top: 33%;
+    border:1.5px solid #fff;
+}
+
+.top-dots1{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+    color: #FFFFFF;      
+}
+
+.second1{
+    background-color: #babeff;
+    border-radius: 50%;
+    display: inline-block;
+    left: 30.30% ;
+    top: 50%;      
+}
+
+.first1{
+    background-color: #babeff;
+    border-radius: 50%;
+    display: inline-block;
+    left: 49% ;
+    top: 36.5%;
+
+}
+  
+.third1{
+    background-color: #babeff;
+    border-radius: 50%;
+    display: inline-block;
+    left: 67.7%;
+    top: 50%;
+}
+
+.second2{
+    position: absolute;
+    width: 110px;
+    height: 110px;
+    background-color: #babeff;
+    border-radius: 50%;
+    display: inline-block;
+    border: 4.5px solid #fff;
+    left: 27.18% ;
+    top: 57%;       
+}
+
+.first2{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    background-color: #babeff;
+    border-radius: 50%;
+    display: inline-block;
+    border: 6px solid #fff;
+    left: 44.44% ;
+    top: 43%;
+}
+
+.third2{
+    position: absolute;
+    width: 110px;
+    height: 110px;
+    background-color: #babeff;
+    border-radius: 50%;
+    display: inline-block;
+    border: 4.5px solid #fff;
+    left: 64.58% ;
+    top: 57%;
+}
+
+.second3{
+    position: absolute;
+    text-align: center;       
+    height: 5%;
+    left: 27.67% ;
+    top: 91%;
+    background: #BABEFF;
+    border-radius: 16px;
+    border: 4px solid #babeff;
+    color: #fff;
+    font-family: 'Inter', sans-serif;  
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;                 
+}
+
+.first3{
+    position: absolute;        
+    height:6%;
+    left: 45.39%;
+    top:  89%;
+    text-align: center;
+    border: 5px solid #babeff;
+    background: #BABEFF;
+    border-radius: 36px;
+    color: #fff;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 21px;
+
+}
+
+.third3{
+    position: absolute;
+    text-align: center;
+    height: 5%;
+    left: 64.78%;
+    top: 91%;
+    background: #BABEFF;
+    border-radius: 16px;
+    border: 4px solid #babeff;
+    color: #fff;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 200;
+    font-size: 16px;
+    line-height: 18px;            
+}
+
+#down ul{     
+    list-style-type: none;
+    padding: 0;
+    top: 45.89%;
+    width:100%;
+    margin-left: 0%;
+    display: flex;
+    flex-direction: column;
+}
+
+#down li{
+    display: flex; 
+    line-height: 60px;        
+    width: 100%;
+    height:60px;       
+    background: #D2D4F2;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+}
+
+.down span{
+    flex:1;
+}
+
+.num{
+    flex-grow: 2;       
+    margin-left: 30px;
+}
+
+.shape{
+    flex-grow: 2;
+    width: 50px;
+    height: 50px;
+}
+
+.name{
+    flex-grow: 100;   
+    margin-left: 30px;
+}
+
+.score{
+    flex-grow: 7;
+    margin-right: 100px;
+}
+     
+.dot1{
+    position: relative; 
+    width: 50px;
+    height: 50px;
+    background-color: #babeff;
+    border-radius: 50%;
+    top: 2.5px; 
+    display: inline-block; 
+    border: 3px solid #fff; 
+}
+  
+  
+
+    
+ 
+    
