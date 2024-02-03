@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #001C25;
+    
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#logo {
+    max-width: 50px;
+    max-height: 50px;
+    margin-right: 10px;
+}
+
+#title {
+    flex-grow: 1;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+#user-actions {
+    display: flex;
+    align-items: center;
+}
+
+#bell-icon {
+    margin-right: 10px;
+    font-size: 1.2em;
+}
+
+#sign-in {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
